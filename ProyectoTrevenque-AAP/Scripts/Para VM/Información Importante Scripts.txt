@@ -1,0 +1,15 @@
+Estos scripts están diseñados para ser lanzados en la máquina y se autoconfigure, 
+pero para que funcionen correctamente están diseñados con ciertas IPs de cada maquina
+por lo que si deseas utilizar otras IPs deberas cambiar la configuracion de los scripts.
+
+NODOS MARIADB+GALERA
+Nodo1: 10.211.20.150
+Nodo2: 10.211.20.151
+Nodo3: 10.211.20.152
+
+SERVIDORES APACHE+PHP+LARAVEL
+Server1: 10.211.20.100
+Server2: 10.211.20.101
+
+Servidor Nginx
+Server: 10.211.20.200
